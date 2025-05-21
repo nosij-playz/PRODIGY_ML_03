@@ -61,7 +61,7 @@ python main.py
 
 Here’s a glimpse of the web interface in action:
 
-![CatDogVision Screenshot](screenshot.png)
+![CatDogVision Screenshot](images/Screenshot.png)
 
 ### 🌐 2. Web-Based Prediction (Flask)
 
