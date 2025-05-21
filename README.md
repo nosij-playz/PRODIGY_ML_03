@@ -89,7 +89,7 @@ pip install -r requirements.txt
 In the `train and test/` folder, open the notebook:
 
 ```bash
-jupyter notebook CatDog_TrainTest.ipynb
+jupyter notebook train_and_test.ipynb
 ```
 
 * Walkthrough includes:
@@ -122,7 +122,7 @@ jupyter notebook CatDog_TrainTest.ipynb
 
 For queries, suggestions, or collaborations, feel free to reach out via my portfolio:
 
-🔗 [https://myporfolio-1o1h.onrender.com/contact](https://myporfolio-1o1h.onrender.com/contact)
+🔗 [contact me:](https://myporfolio-1o1h.onrender.com/contact)
 
 ---
 
