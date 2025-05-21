@@ -57,6 +57,12 @@ python main.py
 
 ---
 
+## 📸 Screenshots
+
+Here’s a glimpse of the web interface in action:
+
+![CatDogVision Screenshot](screenshot.png)
+
 ### 🌐 2. Web-Based Prediction (Flask)
 
 Navigate to the `catdog/` folder:
@@ -129,9 +135,4 @@ Machine Learning & AI Enthusiast 🚀
 
 ---
 
-## 📸 Screenshots
-
-Here’s a glimpse of the web interface in action:
-
-![CatDogVision Screenshot](screenshots.png)
 
