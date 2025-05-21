@@ -9,7 +9,8 @@
 ```
 CatDogVision/
 ├── Module/
-│   ├── svm_model.py         # SVM model implementation
+│   ├── model_artifacts      # saved model and pipeline
+│   ├── catdogclassifier.py         # SVM model implementation
 │   ├── preprocessor.py      # Preprocessing utilities
 │   └── main.py              # Terminal interface to test predictions
 │
