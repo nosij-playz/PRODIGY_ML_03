@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CatDogVision - Flask</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>🐾 CatDogVision</h1>
+        <form method="POST" enctype="multipart/form-data">
+            <input type="file" name="image" required>
+            <br>
+            <button type="submit">Predict</button>
+        </form>
+
+        {% if label %}
+            <div class="result">🖼️ Predicted Label: <strong>{{ label }}</strong></div>
+        {% endif %}
+    </div>
+</body>
+</html>
